@@ -116,8 +116,11 @@ Ratings alone may not reflect true sentiment. For example:
 ## ▶️ How to Run
 
 git clone https://github.com/MeghanaCVarghese/Sentiment-Analysis-Amazon-Reviews.git
+
 cd Sentiment-Analysis-Amazon-Reviews
+
 pip install -r requirements.txt
+
 Run jupyter notebook
 
 ---
